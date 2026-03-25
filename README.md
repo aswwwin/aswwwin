@@ -1,72 +1,124 @@
-### Hi there, I'm Aswin Sathyan 👋
+<h1 align="center">Hey 👋 I'm Aswin Sathyan</h1>
 
-**M.Sc. Data Science · AI Engineer · Berlin, Germany**
+<h3 align="center">M.Sc. Data Science · AI Engineer · Berlin, Germany</h3>
 
----
+<p align="center">
+  Building end-to-end ML systems · Computer Vision · LLMs · Production AI · Cloud
+</p>
 
-🎓 M.Sc. Data Science — University of Europe for Applied Sciences, Potsdam  
-🔭 Currently working on: LLM agent workflows, computer vision systems, production ML  
-🌱 Deepening: LangChain · RAG architectures · edge deployment · LLMOps  
-💬 Ask me about: PyTorch · FastAPI · AWS · MLflow · end-to-end ML pipelines  
-📍 Based in Berlin · open to remote, part-time, full-time & freelance  
-📫 aswinsathyan002@gmail.com  
+###
 
----
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="60" alt="pytorch logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="60" alt="tensorflow logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=opencv" height="60" alt="opencv logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="60" alt="fastapi logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="60" alt="django logo" />
+</div>
 
-### 🧠 Tech stack
+###
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-0C447C?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-185FA5?style=flat&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-378ADD?style=flat&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-534AB7?style=flat&logo=javascript&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redis" height="60" alt="redis logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="60" alt="flask logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" height="60" alt="cloudflare logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cpp logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo" />
+</div>
 
-**ML / Deep Learning**  
-![PyTorch](https://img.shields.io/badge/PyTorch-7F77DD?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-AFA9EC?style=flat&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-1D9E75?style=flat&logo=opencv&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0F6E56?style=flat&logo=scikit-learn&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-5DCAA5?style=flat)
+###
 
-**LLMs & GenAI**  
-![LangChain](https://img.shields.io/badge/LangChain-185FA5?style=flat)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-0C447C?style=flat&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/Hugging_Face-BA7517?style=flat&logo=huggingface&logoColor=white)
+<div align="center">
+  <a href="https://linkedin.com/in/aswinsathyana" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Berlin%2C+Germany&logo=googlemaps&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="location" />
+  <a href="mailto:aswinsathyan002@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+  </a>
+  <a href="https://github.com/aswwwin" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo" />
+  </a>
+</div>
 
-**Cloud & DevOps**  
-![AWS](https://img.shields.io/badge/AWS-993C1D?style=flat&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-D85A30?style=flat&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-444441?style=flat&logo=vercel&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-EF9F27?style=flat&logo=cloudflare&logoColor=white)
+###
 
-**Web & APIs**  
-![FastAPI](https://img.shields.io/badge/FastAPI-1D9E75?style=flat&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-2C2C2A?style=flat&logo=nextdotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-085041?style=flat&logo=django&logoColor=white)
-![Strapi](https://img.shields.io/badge/Strapi-3C3489?style=flat&logo=strapi&logoColor=white)
+<br/>
 
-**Data & MLOps**  
-![MLflow](https://img.shields.io/badge/MLflow-639922?style=flat&logo=mlflow&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-3B6D11?style=flat&logo=apacheairflow&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-D85A30?style=flat&logo=streamlit&logoColor=white)
-![Spark](https://img.shields.io/badge/Spark-E24B4A?style=flat&logo=apachespark&logoColor=white)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aswwwin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aswwwin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+</div>
 
----
+###
 
-### 🚀 Featured projects
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=aswwwin&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://github-profile-trophy.vercel.app?username=aswwwin&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
+</div>
+
+###
+
+<br/>
+
+## 🚀 Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
 | [🧬 Metabolite Prediction](https://github.com/aswwwin/aswwwin-Metabolite_prediction_LightGBM) | Master's thesis — clinical ML under extreme data scarcity | LightGBM · MLflow · SMOTE |
-| [👁️ LipNet](https://github.com/aswwwin) | Real-time CNN-LSTM lip-reading with streaming video pipeline | PyTorch · OpenCV · Docker |
-| [🛒 GamersZone](https://github.com/aswwwin/GamersZone_Project) | ML-powered e-commerce platform on AWS | Next.js · AWS · PostgreSQL |
-| [📈 Sales Forecasting](https://github.com/aswwwin) | Ensemble forecasting with Airflow ETL pipeline | XGBoost · Airflow · Flask |
+| [👁️ LipNet](https://github.com/aswwwin) | Real-time CNN-LSTM lip-reading with live video pipeline | PyTorch · OpenCV · Docker |
+| [🛒 GamersZone](https://github.com/aswwwin/GamersZone_Project) | ML-powered e-commerce platform deployed on AWS | Next.js · AWS · PostgreSQL |
+| [📈 Sales Forecasting](https://github.com/aswwwin) | Ensemble forecasting with Airflow ETL & Flask REST API | XGBoost · Airflow · Flask |
 | [🌡️ Climate Forecasting](https://github.com/aswwwin) | LSTM + attention for global temperature prediction | PyTorch · Streamlit |
 
----
+<br/>
 
-### 📬 Connect
+## 🎓 Certifications
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0C447C?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aswinsathyana)
-[![Email](https://img.shields.io/badge/Email-D85A30?style=flat&logo=gmail&logoColor=white)](mailto:aswinsathyan002@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-2C2C2A?style=flat&logo=github&logoColor=white)](https://github.com/aswwwin)
+- 🏅 Practical Machine Learning for AI — Cardiff University
+- 👁️ Computer Vision: Image Understanding — Luleå University of Technology
+- 🤖 Getting Started with Generative AI — Pragmatic AI Labs
+- ☁️ Introduction to Data Engineering with Microsoft Azure — FutureLearn
+- 📊 Introduction to Data Analytics with Python — FutureLearn
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aswwwin/aswwwin/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aswwwin/aswwwin/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aswwwin/aswwwin/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=aswwwin&label=Profile%20Views&color=6&icon=0&pretty=true" />
+</div>
